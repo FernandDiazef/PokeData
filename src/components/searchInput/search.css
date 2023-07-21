@@ -1,0 +1,16 @@
+.class_input {
+    width: auto;
+    text-align: center;
+    border: none;
+    border-bottom: 3px solid lightslategray;
+    border-radius: 15px;
+    background-color: transparent;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.class_input:focus {
+    color:darkslategray;
+    outline: none;
+    border-bottom: 3px solid #ffffffbd;
+    background: linear-gradient(to bottom, transparent, #ffffff9a);
+}   
